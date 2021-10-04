@@ -1,0 +1,13 @@
+Difference between agile and Devops methodology
+How many types of instance series are there
+Can u host a website in S3 bucket
+which type of S3 bucket used in your project
+On which layer docker works
+Ansible agents
+How can u take backup of MYSQL database
+How can u take backup of jenkins without restart
+Command to check memory and cpu utilization
+Command to check process in linux
+
+
+
